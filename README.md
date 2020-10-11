@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/hillscottc/spotify-client.svg?branch=master)](https://travis-ci.org/hillscottc/spotify-client)
 
+Deployed at: <https://sleepy-beyond-61393.herokuapp.com/>
+
 Initial project template: <https://github.com/rajeshdavidbabu/react-for-heroku>
 
 ## .env setup

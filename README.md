@@ -1,13 +1,10 @@
-# react-for-heroku
-A simple deployment ready webpack-react application for heroku.
-Please follow the link for detailed explanation: https://codeburst.io/deploy-your-webpack-apps-to-heroku-in-3-simple-steps-4ae072af93a8
+# Spotify Client
 
-## Instructions
+[![Build Status](https://travis-ci.org/hillscottc/spotify-client.svg?branch=master)](https://travis-ci.org/hillscottc/spotify-client)
 
-1.  Clone this repo
-2.  Run `npm install`
-3.  Run `npm run dev`, **localhost:8080** will open up in your default browser
+Initial project template: <https://github.com/rajeshdavidbabu/react-for-heroku>
 
-## Verify production code
-1. Run `webpack -p`
-2. Run `node server.js`, and visit **localhost:8080**, voila your code is ready for heroku now.
+## .env setup
+
+See <https://github.com/motdotla/dotenv#readme>
+If this was a node app, start with: `node -r dotenv/config index.js`
